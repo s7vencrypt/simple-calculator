@@ -17,5 +17,5 @@ cmake --build build
 
 ## How to execute
 ```bash
-./build/Release/Calculator
+./build/Release/simple-calculator
 ```

@@ -2,7 +2,7 @@
 
 int main() {
     std::cout << "==================================================\n"<< std::endl;
-    std::cout << "                   CALCULADORA                   "<< std::endl;
+    std::cout << "                   CALCULATOR                   "<< std::endl;
     std::cout << "==================================================\n\n\n"<< std::endl;
 
     int option;
